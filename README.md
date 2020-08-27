@@ -104,3 +104,4 @@ See the [wiki](https://github.com/fogleman/Minecraft/wiki) for this project to i
 ### Quitting
 
 - ESC: release mouse, then close window
+[![Run on Repl.it](https://repl.it/badge/github/fogleman/Minecraft)](https://repl.it/github/fogleman/Minecraft)
